@@ -3,10 +3,10 @@
 Welcome to my academic portfolio for [Course Name]!
 
 ## About Me
-- Name: [Your Name]
-- Major: [Your Major]
-- Year: [Your Academic Year]
-- Favorite Programming Language: [Your Choice]
+- Name: Arunraj Elanchezhian
+- Major: CPAC
+- Year: 2025
+- Favorite Programming Language: javascript
 
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
